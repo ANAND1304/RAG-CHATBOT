@@ -326,3 +326,11 @@ Try semantic chunking (split on sentence boundaries) via `langchain_experimental
 | LLM (API) | Claude (Anthropic) | Highest quality, no GPU needed |
 | Frontend | React + Tailwind | Fast, modern, responsive |
 | Containerization | Docker Compose | One-command deployment |
+
+---
+
+## WebSite View
+<img width="1904" height="1030" alt="Screenshot 2026-08-18 072929" src="https://github.com/user-attachments/assets/8a795ba6-0855-47fc-874c-7860e87745b6" />
+<img width="1898" height="1031" alt="Screenshot 2026-08-18 072708" src="https://github.com/user-attachments/assets/8f66a7d1-203d-4954-9ab0-1a9f832bc6f3" />
+<img width="1905" height="1032" alt="Screenshot 2026-08-18 072647" src="https://github.com/user-attachments/assets/01d1417c-6d34-4742-b1db-d59e7b4dad1d" />
+
